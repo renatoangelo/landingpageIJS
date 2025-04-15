@@ -84,17 +84,17 @@
 &#x2630;</button> <a class="navbar-brand site-name" href="#top"><img src="assets/images/logo-color.png" alt="logo"></a>
 				<div id="navbar-scroll" class="collapse navbar-collapse navbar-backyard ml-auto">
 					<ul class="nav navbar-nav">
-						<li><a href="#intro" class="nav-link">About</a>
+						<li><a href="#intro" class="nav-link">Cuidar</a>
 						</li>
-						<li><a href="#feature" class="nav-link">Features</a>
+						<li><a href="#feature" class="nav-link">Reequilibrar</a>
 						</li>
-						<li><a href="#download" class="nav-link">Download</a>
-						</li>
+						<li><a href="#download" class="nav-link">Você Merece</a>
+						<!-- </li>
 						<li><a href="#package" class="nav-link">Pricing</a>
+						</li> -->
+						<li><a href="#testi" class="nav-link">Depoimentos</a>
 						</li>
-						<li><a href="#testi" class="nav-link">Reviews</a>
-						</li>
-						<li><a href="#contact" class="nav-link">Contact</a>
+						<li><a href="#contact" class="nav-link">Contato</a>
 						</li>
 					</ul>
 				</div>
@@ -153,7 +153,7 @@
 
 						<!-- /.feature 1 -->
 						<div class="col-md-6 feat-list">
-							<i class="fa-solid fa-location-dot wow fadeInUp" data-wow-delay="0.2s"></i>
+							<i class="fa-solid fa-laptop wow fadeInUp" data-wow-delay="0.2s"></i>
 							<div class="inner">
 								<h4>Avaliação Personalizada</h4>
 								<p>Cada atendimento começa com uma escuta atenta e uma análise detalhada — afinal, cada corpo é único.</p>
@@ -162,7 +162,7 @@
 
 						<!-- /.feature 2 -->
 						<div class="col-md-6 feat-list">
-							<i class="fa-solid fa-location-dot wow fadeInUp" data-wow-delay="0.2s"></i>
+							<i class="fa-solid fa-apple-whole wow fadeInUp" data-wow-delay="0.2s"></i>
 							<div class="inner">
 								<h4>Nutrição Funcional na Prática</h4>
 								<p>Muito além de dietas: atuamos na raiz dos sintomas, buscando equilíbrio e bem-estar de forma natural e duradoura.</p>
@@ -171,7 +171,7 @@
 
 						<!-- /.feature 3 -->
 						<div class="col-md-6 feat-list">
-							<i class="fa-solid fa-location-dot wow fadeInUp" data-wow-delay="0.4s"></i>
+							<i class="fa-solid fa-leaf wow fadeInUp" data-wow-delay="0.4s"></i>
 							<div class="inner">
 								<h4>Acompanhamento de Verdade</h4>
 								<p>Acompanhamos sua evolução de perto, com empatia e ciência, respeitando seu ritmo e seus objetivos.</p>
@@ -180,7 +180,7 @@
 
 						<!-- /.feature 4 -->
 						<div class="col-md-6 feat-list">
-							<i class="fa-solid fa-location-dot wow fadeInUp" data-wow-delay="0.6s"></i>
+							<i class="fa-solid fa-trophy wow fadeInUp" data-wow-delay="0.6s"></i>
 							<div class="inner">
 								<h4>Resultados Sustentáveis</h4>
 								<p>Nosso foco está em resultados que permanecem — saúde, disposição, digestão equilibrada e mais qualidade de vida.</p>
