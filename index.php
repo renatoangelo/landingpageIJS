@@ -37,7 +37,7 @@
 
 
 	<!-- /.preloader -->
-	<div id="preloader"></div>
+	<!-- <div id="preloader"></div> -->
 	<div id="top"></div>
 
 	<!-- /.parallax full screen background image -->
