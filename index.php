@@ -44,6 +44,37 @@
 	<!-- <div id="preloader"></div> -->
 	<div id="top"></div>
 
+
+<!-- /.intro section -->
+<div id="intro">
+		<div class="container">
+			<div class="row">
+
+				<!-- /.intro image -->
+				<div class="col-lg-6 intro-pic wow slideInLeft">
+					<img src="assets/images/nutris.jpg" alt="ipad" class="img-fluid">
+				</div>
+
+				<!-- /.intro content -->
+				<div class="col-md-6 wow slideInRight">
+					<h2>Cuidar com ciência e propósito</h2>
+					
+					<p>No Instituto Juliana Sousa, unimos ciência, acolhimento e propósito para oferecer um atendimento completo, humano e personalizado.<br>
+					Se você busca equilíbrio, bem-estar e resultado real, pode contar com a gente!</p>
+
+					<p>Acreditamos que a nutrição vai muito além da estética. Nosso compromisso é com a saúde, o bem-estar e a qualidade de vida dos nossos pacientes — em cada atendimento, em cada plano alimentar, em cada conquista ao seu lado.</p>
+
+					<div class="btn-section"><a href="#feature" class="btn-default">Agende agora mesmo sua consulta</a></div>
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+
+
+
+
 	<!-- /.parallax full screen background image -->
 	<div class="fullscreen landing parallax" style="background-image:url('assets/images/head01.jpg');" data-img-width="2000" data-img-height="1125" data-diff="100">
 
