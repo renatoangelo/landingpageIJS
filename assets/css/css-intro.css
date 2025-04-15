@@ -36,7 +36,7 @@ p {
 	margin:0;
 }
 a {
-	color: #3eb0f7;
+	color: #c08f8b;
 	outline: 0;
 	font-weight: bold;
 	-webkit-transition: all .8s ease;
@@ -49,7 +49,7 @@ a:hover {
 	transition: all .8s ease;
 }
 .highlight {
-	color: #3eb0f7;
+	color: #c08f8b;
 }
 #preloader { 
 	position: fixed; 
@@ -91,13 +91,13 @@ a:hover {
 }
 .navbar-default .navbar-nav > li > a:hover,
 .navbar-default .navbar-nav > li > a:focus {
-    color: #3eb0f7;
+    color: #c08f8b;
 }
 .navbar-default .navbar-nav > .active > a, 
 .navbar-default .navbar-nav > .active > a:hover, 
 .navbar-default .navbar-nav > .active > a:focus {
 	background: transparent;
-    color: #3eb0f7;
+    color: #c08f8b;
 }
 .site-name img{
 	width: 150px; 
@@ -133,14 +133,14 @@ a:hover {
 	line-height: 20px;
 	padding: 15px 35px;
 	height: 50px;
-	border: 2px solid #3eb0f7;
+	border: 2px solid #c08f8b;
 	background: transparent;
 	transition: all 0.4s;
-	color: #3eb0f7;
+	color: #c08f8b;
 	border-radius: 100px;
 }
 .action-glass:hover {
-	background: #3eb0f7;
+	background: #c08f8b;
 	color: white;
 }
 .action-blue {
@@ -150,15 +150,15 @@ a:hover {
 	line-height: 20px;
 	padding: 15px 35px;
 	height: 50px;
-	border: 2px solid #3eb0f7;
-	background: #3eb0f7;
+	border: 2px solid #c08f8b;
+	background: #c08f8b;
 	transition: all 0.4s;
 	color: white;
 	border-radius: 100px;
 }
 .action-blue:hover {
 	background: transparent;
-	color: #3eb0f7;
+	color: #c08f8b;
 }
 .head-btn {
 	margin-bottom: 100px;
@@ -207,7 +207,7 @@ a:hover {
 	border-radius: 0;
 	height: 55px;
 	width: 100%;
-	background-color: #3eb0f7;
+	background-color: #c08f8b;
 	color: white;
 	font-size: 17px !important;
 	padding: 0 33px;
@@ -252,7 +252,7 @@ a:hover {
 	border-radius: 0;
 	height: 55px;
 	width: 100%;
-	background-color: #3eb0f7;
+	background-color: #c08f8b;
 	color: white;
 	font-size: 17px !important;
 	padding: 0 33px;
@@ -295,14 +295,14 @@ a:hover {
 	line-height: 20px;
 	padding: 15px 35px;
 	height: 50px;
-	border: solid 2px #3eb0f7;
+	border: solid 2px #c08f8b;
 	background: white;
 	transition: all 0.4s;
-	color: #3eb0f7;
+	color: #c08f8b;
 	border-radius: 100px;
 }
 .btn-action:hover {
-	background: #3eb0f7;
+	background: #c08f8b;
 	color: white;
 }
 .btn-section {
@@ -338,7 +338,7 @@ a:hover {
 	transition: all .8s ease;
 }
 .feat-list:hover i {
-	color: #3eb0f7;
+	color: #c08f8b;
 	-webkit-transition: all .8s ease;
 	transition: all .8s ease;
 }
@@ -367,9 +367,9 @@ a:hover {
 	height: 100px;
 	line-height: 100px;
 	font-size: 50px;
-	color: #3eb0f7;
+	color: #c08f8b;
 	border-radius: 50%;
-	border: solid 1px #3eb0f7;
+	border: solid 1px #c08f8b;
 }
 .subscribe p {
 	margin: 30px auto 30px;
@@ -398,7 +398,7 @@ a:hover {
 }
 .subscribe-form button {
 	border-radius: 0 4px 4px 0;
-	background-color: #3eb0f7;
+	background-color: #c08f8b;
 	color: #ffffff;
 	font-size: 1em;
 	line-height: 52px;
@@ -438,7 +438,7 @@ a:hover {
     width: 100px;
     height: 3px;
     margin: 0 auto;
-    background: #3eb0f7;
+    background: #c08f8b;
 }
 .price-box {
 	border: solid 1px #d1d1d1;
@@ -466,7 +466,7 @@ a:hover {
 	bottom: 48px;
 }
 .price-group .price {
-	color: #3eb0f7;
+	color: #c08f8b;
 	font-size: 90px;
 	font-weight: 500;
 }
@@ -485,7 +485,7 @@ a:hover {
 	font-size: 17px;
 	padding: 7px 35px;
 	height: 40px;
-	background: #3eb0f7;
+	background: #c08f8b;
 	transition: all 0.4s;
 	color: white;
 	border-radius: 4px;	
@@ -545,7 +545,7 @@ a:hover {
 }
 .testi-item .client-info .company {
 	font-style: italic;
-	color: #3eb0f7;
+	color: #c08f8b;
 }
 .action {
 	color: #fff;
@@ -570,7 +570,7 @@ a:hover {
 	border-radius: 4px;
 } 
 .iphone {
-	background: #3eb0f7;
+	background: #c08f8b;
 	transition: all 0.3s ease;
 	-webkit-transition: all 0.3s ease;
 	-moz-transition: all 0.3s ease;
@@ -638,7 +638,7 @@ a:hover {
 	margin-left: 15px;
 	position: absolute; 
 	left: 0;
-	color: #3eb0f7; 
+	color: #c08f8b; 
 	font-size: 25px;
 	line-height: 30px;
  }
@@ -671,7 +671,7 @@ a:hover {
 #contact-form .btn {
 	height: 55px;
 	width: 100%;
-	background-color: #3eb0f7;
+	background-color: #c08f8b;
 	color: #ffffff;
 	font-size: 17px !important;
 	line-height: 18px;
@@ -704,16 +704,16 @@ a:hover {
 	width: 40px;
 	height: 40px;
 	line-height: 40px;
-	color: #3eb0f7;
+	color: #c08f8b;
 	border-radius: 50%;
 	background: #fff;
-	border: solid 1px #3eb0f7;
+	border: solid 1px #c08f8b;
 	-webkit-transition: all .8s ease;
 	transition: all .8s ease;
 }
 .social li a:hover {
 	color: #fff;
-	background: #3eb0f7;
+	background: #c08f8b;
 }
 .scrollToTop{
 	width: 40px; 
@@ -730,7 +730,7 @@ a:hover {
 	display: none;
 }
 .scrollToTop:hover{
-	color: #3eb0f7;
+	color: #c08f8b;
 }
 .control-group .controls {
 	overflow-x: hidden;
