@@ -49,14 +49,8 @@
 <div id="intro">
 		<div class="container">
 			<div class="row">
-
-				<!-- /.intro image -->
-				<div class="col-lg-6 intro-pic wow slideInLeft">
-					<img src="assets/images/nutris.jpg" alt="ipad" class="img-fluid">
-				</div>
-
 				<!-- /.intro content -->
-				<div class="col-md-6 wow slideInRight">
+				<div class="col-md-12 wow slideInRight">
 					<h2>Cuidar com ciência e propósito</h2>
 					
 					<p>No Instituto Juliana Sousa, unimos ciência, acolhimento e propósito para oferecer um atendimento completo, humano e personalizado.<br>
